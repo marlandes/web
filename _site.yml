@@ -8,7 +8,7 @@ navbar:
     - text: "Software"
       href: software.html
     - text: "For Students"
-      href: forstudents.html
+      href: for-students.html
     - text: "Scholarship"
       href: scholarship.html
     - text: "Teaching"
