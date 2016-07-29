@@ -53,11 +53,10 @@ output: html_document
 * [Reproducible Reporting (Video)](https://www.rstudio.com/resources/webinars/reproducible-reporting/) (58:03)
 
 ### Markdown
-* [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
-* [Markdown](http://daringfireball.net/projects/markdown/)
-* [Getting started with R Markdown Blog](http://jeromyanglim.blogspot.com.au/2012/05/getting-started-with-r-markdown-knitr.html)
 * [R Markdown V2](http://rmarkdown.rstudio.com)
+* [Using R Markdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
 * [Getting started with R Markdown (Video)](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) (1:02:44)
+* [Markdown](http://daringfireball.net/projects/markdown/)
   
 ### LaTeX  
 
@@ -69,8 +68,9 @@ output: html_document
 * [Clever help finding LaTeX symbols](http://detexify.kirelabs.org/classify.html)
 
 ### Creating Slides with R
+* [R Markdown - ioslides, reveal.js, Slidy, and Beamer](http://rmarkdown.rstudio.com/ioslides_presentation_format.html#overview)
 * [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
-* [Slidify](http://slidify.org/index.html)
+
 
 ### Git
 * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
