@@ -3,7 +3,8 @@ title: "Resources"
 output: html_document
 ---
 
-[John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
+### RStudio Server
+* [ASU RStudio Server](https://mathr.math.appstate.edu/)
 
 ### R
 * [R homepage](http://www.r-project.org/)
@@ -95,5 +96,6 @@ output: html_document
 
 ### Other Interesting Stuff
 * [R-bloggers](http://r-bloggers.com)
+* [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
 
 * * *
