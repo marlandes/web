@@ -95,3 +95,5 @@ output: html_document
 
 ### Other Interesting Stuff
 * [R-bloggers](http://r-bloggers.com)
+
+* * *
