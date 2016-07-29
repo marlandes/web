@@ -1,22 +1,10 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Alan T. Arnholt"
+  title: "STT 5811"
   left:
     - text: "About"
       href: about.html
-    - text: "Software"
-      href: software.html
-    - text: "For Students"
-      href: for-students.html
-    - text: "Scholarship"
-      href: scholarship.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Resources"
-      href: resources.html
-    - text: "Cool Stuff"
-      href: coolstuff.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/alanarnholt/web/         
