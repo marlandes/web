@@ -6,7 +6,7 @@ title: "Welcome"
 <img src="./images/AlanBW.jpg" alt="Alan" align="left" hspace="20" style="width:100px;height:100px;">
 </figure>
  
-Welcome to my experimental website created with [R Markdown](http://rmarkdown.rstudio.com/index.html).  I am having a hard time deciding whether I want to use [jeckyll](https://jekyllrb.com/) for my web page and have a blog or just stick with straight [R Markdown](http://rmarkdown.rstudio.com/index.html).  I am leaning toward straight R Markdown.
+Welcome to my experimental website created with [R Markdown](http://rmarkdown.rstudio.com/index.html).  I am having a hard time deciding whether I want to use [jeckyll](https://jekyllrb.com/) for my web page and have a blog or just stick with straight [R Markdown](http://rmarkdown.rstudio.com/index.html).  Right now, I am leaning toward using straight [R Markdown](http://rmarkdown.rstudio.com/index.html).
 
 My research and teaching interests include computational statistics and reproducible research.
 
