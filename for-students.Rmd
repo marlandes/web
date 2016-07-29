@@ -4,7 +4,7 @@ output: html_document
 ---
 ## Office Hours
 
-My office is in 340 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to 11:30 a.m. Students may visit the following page to [schedule an appointment.](/for-students/office-hours-appointment/) 
+My office is in 340 Walker Hall. Office hours for the fall are MWF 10:00 a.m. to 11:30 a.m. Students may click on the book now button in the footer to schedule an appointment.
 
 <center><img src="./images/walkerhall.jpg" caption="Walker Hall" width = 260></center>
 
