@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+This page will serve as a directory for courses I teach from Fall 2016 forward. 
+
+
+## Classes
+
+* [Course Repositories](https://github.com/STAT-ATA-ASU)
+* [STT 5811](http://stat-ata-asu.github.io/STT5811ClassRepo/)
+* [STT 5812](http://stat-ata-asu.github.io/STT5812Spring2016/)
+* [STT 3851](http://stat-ata-asu.github.io/STT3851ClassRepo/)
+* [MAT 4010](http://stat-ata-asu.github.io/MAT4010Spring2016/)
+* [AsULearn](http://asulearn.appstate.edu/)
+
+* * *

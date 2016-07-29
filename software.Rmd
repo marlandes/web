@@ -1,0 +1,25 @@
+---
+title: "Software"
+output: html_document
+---
+
+## R packages
+
+* [PASWR development on GitHub](https://github.com/alanarnholt/PASWR)---[PASWR on CRAN](https://cran.r-project.org/web/packages/PASWR/index.html)
+* [PASWR2 development on GitHub](https://github.com/alanarnholt/PASWR2)---[PASWR2 on CRAN](https://cran.r-project.org/web/packages/PASWR2/index.html)
+* [BSDA development on GitHub](https://github.com/alanarnholt/BSDA)---[BSDA on CRAN](https://cran.r-project.org/web/packages/BSDA/index.html)
+* [PDS development on GitHub](https://github.com/alanarnholt/PDS)
+
+## S-PLUS package
+
+* [PASWR](http://csan.insightful.com/PackageDetails.aspx?Package=paswr)
+
+## Bookdown
+
+* [_Passion Driven Statistics_](https://alanarnholt.github.io/PDS-BookDown/BookDownTry/book/overview.html)
+
+## Grant Work
+
+* [USFS](https://github.com/alanarnholt/USFS)
+
+* * *

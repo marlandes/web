@@ -1,0 +1,17 @@
+---
+title: "Cool Stuff"
+output: html_document
+---
+
+Here are some links I frequent:
+
+
+
+- [Masters Swimming](http://www.usms.org/)
+- [US Swimming](http://www.usaswimming.org/DesktopDefault.aspx)
+- [North Carolina Masters](http://www.ncmasters.org/)
+- [ASU Recreation Center](http://urec.appstate.edu/student-recreation-center)
+- [Ray's Weather Center](http://booneweather.com/)
+
+
+* * *
