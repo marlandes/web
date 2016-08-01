@@ -31,6 +31,7 @@ blockquote {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
     color: #FFD700;
+    background-color: gray;
 }
 /* link */
 .navbar-default .navbar-nav > li > a {
