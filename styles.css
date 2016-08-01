@@ -92,4 +92,14 @@ blockquote {
 }
 
 
+hr {
+height: 2px;
+color: #FFD700;
+background-color: #FFD700;
+border: none;
+}
+
+
 <link rel="stylesheet" href="./site_libs/font-awesome-4.6.3/css/font-awesome.min.css">
+
+
