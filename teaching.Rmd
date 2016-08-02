@@ -13,6 +13,7 @@ This page will serve as a directory for courses I teach from Fall 2016 forward.
 * [STT 5812](http://stat-ata-asu.github.io/STT5812CourseRepo/)
 * [STT 3851](http://stat-ata-asu.github.io/STT3851ClassRepo/)
 * [MAT 4010](http://stat-ata-asu.github.io/MAT4010CourseRepo/)
+* [STT 2810](http://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](http://asulearn.appstate.edu/)
 
 * * *
