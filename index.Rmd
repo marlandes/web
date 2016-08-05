@@ -6,9 +6,11 @@ title: "Welcome"
 <img src="./images/AlanBW.jpg" alt="Alan" align="left" hspace="20" style="width:100px;height:100px;">
 </figure>
  
-Welcome to my website created with [R Markdown](http://rmarkdown.rstudio.com/index.html).  To make an appointment to meet with me, please click on the **book now** icon in the footer.  
+Welcome to my website created with [R Markdown](http://rmarkdown.rstudio.com/index.html).  
 
 My research and teaching interests include computational statistics and reproducible research.
+
+To make an appointment to meet with me, please click on the **book now** icon in the footer.  
 
 This website was last rendered on `r format(Sys.time(), "%B %d, %Y at %X")`.
 
