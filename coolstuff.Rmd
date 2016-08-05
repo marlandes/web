@@ -1,11 +1,7 @@
 ---
-title: "Cool Stuff"
+title: "Cool Stuff: Non-Academic Links"
 output: html_document
 ---
-
-Here are some links I frequent:
-
-
 
 - [Masters Swimming](http://www.usms.org/)
 - [US Swimming](http://www.usaswimming.org/DesktopDefault.aspx)

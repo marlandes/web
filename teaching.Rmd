@@ -3,7 +3,7 @@ title: "Teaching"
 output: html_document
 ---
 
-This page will serve as a directory for courses I teach from Fall 2016 forward. 
+This page will serve as a directory for courses from Fall 2016 forward. 
 
 
 ## Classes
