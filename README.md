@@ -1,5 +1,4 @@
 # web
 
-Experimental [web page](https://alanarnholt.github.io/web/)
+Academic [website](https://alanarnholt.github.io/web/) for Alan T. Arnholt.
 
-[![Travis-CI Build Status](https://travis-ci.org/alanarnholt/web.svg?branch=master)](https://travis-ci.org/alanarnholt/web)
