@@ -15,5 +15,6 @@ This page will serve as a directory for courses from Fall 2016 forward.
 * [MAT 4010](http://stat-ata-asu.github.io/MAT4010CourseRepo/)
 * [STT 2810](http://stat-ata-asu.github.io/STT2810ClassRepo/)
 * [AsULearn](http://asulearn.appstate.edu/)
+* [STT 3850 - notes from Fall 2012](http://alanarnholt.github.io/STT3850/Notes/Parent/Parent.html)
 
 * * *
