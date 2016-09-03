@@ -54,6 +54,7 @@ output: html_document
 * [CRAN views of Reproducible Analysis](http://cran.r-project.org/web/views/ReproducibleResearch.html)
 * [Reproducible Reporting (Video)](https://www.rstudio.com/resources/webinars/reproducible-reporting/) (58:03)
 * [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/)
+* [My Final College Paper](https://ismayc.github.io/thesisdown_book/index.html)
 
 ### Markdown
 * [R Markdown V2](http://rmarkdown.rstudio.com)
