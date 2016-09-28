@@ -16,7 +16,7 @@ output: html_document
 
 ## Bookdown
 
-* [_Passion Driven Statistics_](https://alanarnholt.github.io/PDS-BookDown/BookDownTry/book/overview.html)
+* [_Passion Driven Statistics_](https://alanarnholt.github.io/PDS-Bookdown2/)
 
 ## Grant Work
 
